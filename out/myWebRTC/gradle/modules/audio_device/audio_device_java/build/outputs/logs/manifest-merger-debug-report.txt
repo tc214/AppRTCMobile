@@ -1,0 +1,17 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\tc\source\AppRTCMobile\src\build\android\AndroidManifest.xml:15:1-20:12
+INJECTED from E:\tc\source\AppRTCMobile\src\build\android\AndroidManifest.xml:15:1-20:12
+INJECTED from E:\tc\source\AppRTCMobile\src\build\android\AndroidManifest.xml:15:1-20:12
+	package
+		ADDED from E:\tc\source\AppRTCMobile\src\build\android\AndroidManifest.xml:16:5-24
+		INJECTED from E:\tc\source\AppRTCMobile\src\build\android\AndroidManifest.xml
+		INJECTED from E:\tc\source\AppRTCMobile\src\build\android\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\tc\source\AppRTCMobile\src\build\android\AndroidManifest.xml:15:11-69
+uses-sdk
+ADDED from E:\tc\source\AppRTCMobile\src\build\android\AndroidManifest.xml:18:5-74
+	android:targetSdkVersion
+		ADDED from E:\tc\source\AppRTCMobile\src\build\android\AndroidManifest.xml:18:42-71
+	android:minSdkVersion
+		ADDED from E:\tc\source\AppRTCMobile\src\build\android\AndroidManifest.xml:18:15-41

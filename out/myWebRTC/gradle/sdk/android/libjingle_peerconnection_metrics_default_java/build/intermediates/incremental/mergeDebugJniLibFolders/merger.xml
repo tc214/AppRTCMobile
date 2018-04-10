@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"/><dataSet config="debug"><source path="E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\sdk\android\libjingle_peerconnection_metrics_default_java\src\debug\jniLibs"/></dataSet></merger>

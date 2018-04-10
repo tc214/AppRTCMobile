@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_disconnect.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\disconnect.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\layout_activity_connect.xml.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\layout\\activity_connect.xml"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_action_return_from_full_screen.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\ic_action_return_from_full_screen.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ic_action_return_from_full_screen.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\ic_action_return_from_full_screen.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_action_full_screen.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\ic_action_full_screen.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ic_launcher.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_action_full_screen.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ic_action_full_screen.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ic_action_full_screen.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\ic_action_full_screen.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_action_full_screen.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\ic_action_full_screen.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_action_return_from_full_screen.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\ic_action_return_from_full_screen.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_disconnect.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\disconnect.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\layout_activity_call.xml.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\layout\\activity_call.xml"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ic_loopback_call.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-ldpi-v4\\ic_loopback_call.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\layout_fragment_call.xml.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\layout\\fragment_call.xml"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_loopback_call.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\ic_loopback_call.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_action_return_from_full_screen.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ic_action_return_from_full_screen.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_disconnect.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\disconnect.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_disconnect.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\disconnect.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\layout_fragment_hud.xml.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\layout\\fragment_hud.xml"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_loopback_call.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ic_loopback_call.png"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\menu_connect_menu.xml.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\menu\\connect_menu.xml"
+    },
+    {
+        "merged": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_loopback_call.png.flat",
+        "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\ic_loopback_call.png"
+    }
+]

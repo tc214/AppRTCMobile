@@ -1,0 +1,4 @@
+#Tue Apr 10 11:34:46 CST 2018
+base.0=E\:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile\\build\\intermediates\\transforms\\dexMerger\\debug\\48
+path.0=classes.dex
+renamed.0=classes.dex

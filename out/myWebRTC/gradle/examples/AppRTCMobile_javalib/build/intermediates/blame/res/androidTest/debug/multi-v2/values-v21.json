@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "E:\\tc\\source\\AppRTCMobile\\src\\out\\myWebRTC\\gradle\\examples\\AppRTCMobile_javalib\\build\\intermediates\\packaged_res\\debug\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "10",
+                        "endOffsets": "297"
+                    }
+                }
+            ]
+        }
+    ]
+}

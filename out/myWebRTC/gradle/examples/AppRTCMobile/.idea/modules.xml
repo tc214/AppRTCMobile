@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../base/base_java/base.base_java.iml" filepath="$PROJECT_DIR$/../../base/base_java/base.base_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../build/android/buildhooks/build_hooks_android_java/build.android.buildhooks.build_hooks_android_java.iml" filepath="$PROJECT_DIR$/../../build/android/buildhooks/build_hooks_android_java/build.android.buildhooks.build_hooks_android_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../build/android/buildhooks/build_hooks_java/build.android.buildhooks.build_hooks_java.iml" filepath="$PROJECT_DIR$/../../build/android/buildhooks/build_hooks_java/build.android.buildhooks.build_hooks_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples.AppRTCMobile.iml" filepath="$PROJECT_DIR$/examples.AppRTCMobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AppRTCMobile_javalib/examples.AppRTCMobile_javalib.iml" filepath="$PROJECT_DIR$/../AppRTCMobile_javalib/examples.AppRTCMobile_javalib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../gradle.iml" filepath="$PROJECT_DIR$/../../gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../modules/audio_device/audio_device_java/modules.audio_device.audio_device_java.iml" filepath="$PROJECT_DIR$/../../modules/audio_device/audio_device_java/modules.audio_device.audio_device_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../rtc_base/base_java/rtc_base.base_java.iml" filepath="$PROJECT_DIR$/../../rtc_base/base_java/rtc_base.base_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../sdk/android/libjingle_peerconnection_java/sdk.android.libjingle_peerconnection_java.iml" filepath="$PROJECT_DIR$/../../sdk/android/libjingle_peerconnection_java/sdk.android.libjingle_peerconnection_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../sdk/android/libjingle_peerconnection_metrics_default_java/sdk.android.libjingle_peerconnection_metrics_default_java.iml" filepath="$PROJECT_DIR$/../../sdk/android/libjingle_peerconnection_metrics_default_java/sdk.android.libjingle_peerconnection_metrics_default_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../third_party/jsr-305/jsr_305_javalib/third_party.jsr-305.jsr_305_javalib.iml" filepath="$PROJECT_DIR$/../../third_party/jsr-305/jsr_305_javalib/third_party.jsr-305.jsr_305_javalib.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="build.android.buildhooks.build_hooks_java.build_hooks_java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../build/android/buildhooks/build_hooks_java/build/libs/build_hooks_java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

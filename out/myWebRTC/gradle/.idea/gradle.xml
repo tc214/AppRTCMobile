@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/base/base_java" />
+            <option value="$PROJECT_DIR$/build/android/buildhooks/build_hooks_android_java" />
+            <option value="$PROJECT_DIR$/build/android/buildhooks/build_hooks_java" />
+            <option value="$PROJECT_DIR$/examples/AppRTCMobile" />
+            <option value="$PROJECT_DIR$/examples/AppRTCMobile_javalib" />
+            <option value="$PROJECT_DIR$/modules/audio_device/audio_device_java" />
+            <option value="$PROJECT_DIR$/rtc_base/base_java" />
+            <option value="$PROJECT_DIR$/sdk/android/libjingle_peerconnection_java" />
+            <option value="$PROJECT_DIR$/sdk/android/libjingle_peerconnection_metrics_default_java" />
+            <option value="$PROJECT_DIR$/third_party/jsr-305/jsr_305_javalib" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":-1,"enabled":true,"outputFile":"sdk.android.libjingle_peerconnection_metrics_default_java-debug.aar","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.dummy","split":""}}]

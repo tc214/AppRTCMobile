@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:2:1-59:12
+INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:2:1-59:12
+INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:2:1-59:12
+MERGED from [:examples.AppRTCMobile_javalib] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\examples\AppRTCMobile_javalib\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:sdk.android.libjingle_peerconnection_metrics_default_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\sdk\android\libjingle_peerconnection_metrics_default_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:1-21:12
+MERGED from [:sdk.android.libjingle_peerconnection_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\sdk\android\libjingle_peerconnection_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:1-21:12
+MERGED from [:modules.audio_device.audio_device_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\modules\audio_device\audio_device_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:1-21:12
+MERGED from [:rtc_base.base_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\rtc_base\base_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:1-21:12
+MERGED from [:base.base_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\base\base_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:1-21:12
+MERGED from [:build.android.buildhooks.build_hooks_android_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\build\android\buildhooks\build_hooks_android_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:1-21:12
+INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:2:1-59:12
+INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:4:11-39
+	android:versionName
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:6:11-36
+		INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml
+		INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:3:11-57
+	xmlns:android
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:5:11-34
+		INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml
+		INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:9:19-67
+uses-feature#0x00020000
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:10:5-78
+	android:glEsVersion
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:10:19-51
+	android:required
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:10:52-75
+uses-sdk
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:11:5-74
+INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:11:5-74
+INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:11:5-74
+MERGED from [:examples.AppRTCMobile_javalib] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\examples\AppRTCMobile_javalib\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:examples.AppRTCMobile_javalib] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\examples\AppRTCMobile_javalib\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sdk.android.libjingle_peerconnection_metrics_default_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\sdk\android\libjingle_peerconnection_metrics_default_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [:sdk.android.libjingle_peerconnection_metrics_default_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\sdk\android\libjingle_peerconnection_metrics_default_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [:sdk.android.libjingle_peerconnection_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\sdk\android\libjingle_peerconnection_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [:sdk.android.libjingle_peerconnection_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\sdk\android\libjingle_peerconnection_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [:modules.audio_device.audio_device_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\modules\audio_device\audio_device_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [:modules.audio_device.audio_device_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\modules\audio_device\audio_device_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [:rtc_base.base_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\rtc_base\base_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [:rtc_base.base_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\rtc_base\base_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [:base.base_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\base\base_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [:base.base_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\base\base_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [:build.android.buildhooks.build_hooks_android_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\build\android\buildhooks\build_hooks_android_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-19:41
+MERGED from [:build.android.buildhooks.build_hooks_android_java] E:\tc\source\AppRTCMobile\src\out\myWebRTC\gradle\build\android\buildhooks\build_hooks_android_java\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-19:41
+INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:11:5-74
+INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:11:5-74
+	android:targetSdkVersion
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:11:42-71
+		INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml
+		INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:11:15-41
+		INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml
+		INJECTED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.INTERNET
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.CAPTURE_VIDEO_OUTPUT
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:21:22-76
+application
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:24:5-58:19
+	android:supportsRtl
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:28:18-45
+	android:label
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:24:18-50
+	android:debuggable
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:27:18-43
+	tools:ignore
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:29:18-51
+	android:icon
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:25:18-54
+	android:allowBackup
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:26:18-45
+activity#org.appspot.apprtc.ConnectActivity
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:31:9-46:20
+	android:label
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:32:19-51
+	android:windowSoftInputMode
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:33:19-58
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:31:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:36:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:appr.tc+data:host:appr.tc+data:scheme:http+data:scheme:https
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:39:13-45:29
+action#android.intent.action.VIEW
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:41:17-75
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:41:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:42:27-75
+data
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:43:17-70
+	android:host
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:43:46-68
+	android:scheme
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:43:23-45
+activity#org.appspot.apprtc.SettingsActivity
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:48:9-50:20
+	android:label
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:49:19-56
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:48:19-50
+activity#org.appspot.apprtc.CallActivity
+ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:52:9-57:20
+	android:screenOrientation
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:54:19-55
+	android:label
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:53:19-51
+	android:configChanges
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:55:19-97
+	android:theme
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:56:19-59
+	android:name
+		ADDED from E:\tc\source\AppRTCMobile\src\examples\androidapp\AndroidManifest.xml:52:19-46
